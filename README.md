@@ -1,3 +1,3 @@
 # 404
 
-A e-commerce app using flutter.
+An e-commerce app using flutter.
